@@ -13,8 +13,11 @@ Hi! I'm Ethéocle, a developer passionate about application development and cybe
 
 - Programming languages: Python, JavaScript, PHP, etc.
 - Frameworks: Angular, Laravel, Vue.js, Express.js, Django.
-- Tools: Git, Docker, etc.
+- Databases: MongoDB, MySQL, PostgreSQL
+- Tools: Git, Docker, CI/CD.
 - Other skills: Project management.
+
+
 
 <!--## GitHub Stats-->
 
