@@ -21,7 +21,7 @@ Hi! I'm Ethéocle, a developer passionate about application development and cybe
 ## GitHub Stats
 
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=etheocledk&show_icons=true)-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=etheocledk&layout=compact&langs_count=15)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=etheocledk&layout=compact&langs_count=15)-->
 <!--![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=etheocledk)-->
 
 ## Contact
