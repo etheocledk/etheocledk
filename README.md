@@ -1,26 +1,26 @@
-# Bienvenue sur mon profil GitHub
+# Welcome to my GitHub Profile
 
-Salut! Je suis Ethéocle, un développeur passionné par le développement d'applications et la cybersécurité. Voici un aperçu de mes projets et compétences.
+Hi! I'm Ethéocle, a developer passionate about application development and cybersecurity. Here is an overview of my projects and skills.
 
-## À propos de moi
+## About Me
 
-- 🔭 Je travaille actuellement sur des projets intéressants.
-- 🌱 J'apprends actuellement Python.
-- 👯 Je cherche à collaborer sur tous types de projets.
-- 💬 Posez-moi des questions sur le développement d'applications.
-- 📫 Comment me joindre : etheocledk@gmail.com.
-- ⚡ Fun fact : Je code comme un bulldozer.
+- 🔭 I am currently working on interesting projects.
+- 🌱 I am currently learning Python.
+- 👯 I am looking to collaborate on all types of projects.
+- 💬 Ask me about application development.
+- 📫 How to reach me: etheocledk@gmail.com.
+- ⚡ Fun fact: I code like a bulldozer.
 
-## Compétences
+## Skills
 
-- Langages de programmation : Python, JavaScript, PHP, etc.
-- Frameworks : Angular, Laravel, Vue.js, Express.js, Django.
-- Outils : Git, Docker, etc.
-- Autres compétences : Gestion de projets.
+- Programming languages: Python, JavaScript, PHP, etc.
+- Frameworks: Angular, Laravel, Vue.js, Express.js, Django.
+- Tools: Git, Docker, etc.
+- Other skills: Project management.
 
 ## Contact
 
-- Email : etheocledk@gmail.com
-- LinkedIn : [Etheocle sur LinkedIn](https://www.linkedin.com/in/etheocledk)
+- Email: etheocledk@gmail.com
+- LinkedIn: [Etheocle on LinkedIn](https://www.linkedin.com/in/etheocledk)
 
-Merci de visiter mon profil ! N'hésitez pas à explorer mes projets et à me contacter pour toute question ou collaboration.
+Thank you for visiting my profile! Feel free to explore my projects and contact me with any questions or collaboration opportunities.
