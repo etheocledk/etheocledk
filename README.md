@@ -4,7 +4,6 @@ Hi! I'm Ethéocle, a developer passionate about application development and cybe
 
 ## About Me
 
-- 🔭 I am currently working on interesting projects.*
 - 👯 I am looking to collaborate on all types of projects.
 - 💬 Ask me about application development.
 - 📫 How to reach me: etheocledk@gmail.com.
