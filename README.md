@@ -19,7 +19,13 @@ Hi! I'm Ethéocle, a developer passionate about application development and cybe
 
 ## 🌟 Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=etheocledk&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=etheocledk&show_icons=true&count_private=true&hide_title=true&theme=radical)
+
+## Statistiques GitHub
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=etheocledk&show_icons=true&count_private=true&hide_title=true&theme=radical)
+
+## Contributions de l'année
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=etheocledk&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=etheocledk&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
