@@ -19,11 +19,9 @@ Hi! I'm Ethéocle, a developer passionate about application development and cybe
 
 ## Contributions de l'année
 
-![](https://github-readme-stats.vercel.app/api?username=etheocledk&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=etheocledk&theme=calm_pink&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=etheocledk&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
 [![](https://visitcount.itsvg.in/api?id=etheocledk&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## Contact
