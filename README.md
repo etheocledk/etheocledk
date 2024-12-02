@@ -18,8 +18,8 @@ Hi! I'm Ethéocle, a developer passionate about application development and cybe
 - Other skills: Project management.
 
 ## Contributions de l'année
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=etheocledk&theme=radical)
-
+[![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=etheocledk&theme=radical)](https://github-readme-streak-stats.herokuapp.com/?user=etheocledk&theme=radical
+)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=etheocledk&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact
