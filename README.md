@@ -25,6 +25,8 @@ Hi! I'm Ethéocle, a developer passionate about application development and cybe
 
 [![](https://visitcount.itsvg.in/api?id=etheocledk&icon=0&color=0)](https://visitcount.itsvg.in)
 
+[![committers.top badge](https://user-badge.committers.top/benin/etheocledk.svg)](https://user-badge.committers.top/benin/etheocledk)
+
 ## Contact
 
 - Email: etheocledk@gmail.com
