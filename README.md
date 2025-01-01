@@ -23,6 +23,14 @@ Hi! I'm Ethéocle, a developer passionate about application development and cybe
 
 [![](https://visitcount.itsvg.in/api?id=etheocledk&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tcisse&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tcisse&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![wakatime](https://wakatime.com/badge/user/09cb03a5-0593-48c0-81aa-a273b2be9f24.svg)](https://wakatime.com/@09cb03a5-0593-48c0-81aa-a273b2be9f24)
+
+[![committers.top badge](https://user-badge.committers.top/benin/tcisse.svg)](https://user-badge.committers.top/benin/tcisse)
+
 ## Contact
 
 - Email: etheocledk@gmail.com
