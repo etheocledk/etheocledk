@@ -21,13 +21,9 @@ Hi! I'm Ethéocle, a developer passionate about application development and cybe
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=etheocledk&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![](https://visitcount.itsvg.in/api?id=etheocledk&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=etheocledk&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=etheocledk&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![committers.top badge](https://user-badge.committers.top/benin/etheocledk.svg)](https://user-badge.committers.top/benin/etheocledk)
+[![](https://visitcount.itsvg.in/api?id=etheocledk&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## Contact
 
