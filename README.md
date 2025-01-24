@@ -12,9 +12,9 @@ Hi! I'm Ethéocle, a developer passionate about application development and cybe
 ## Skills
 
 - Programming languages: JavaScript, PHP, etc.
-- Frameworks: Laravel, Vue.js, Express.js, etc.
+- Frameworks: Laravel, Vue.js, Express.js, Nuxt.js, React, Next.js, Ruby on Rails etc.
 - Databases: MongoDB, MySQL, PostgreSQL, etc.
-- Tools: Git, Docker, CI/CD.
+- Tools: Git(GitHub/GitLab), Docker, CI/CD.
 - Other skills: Project management.
 
 ## Contributions de l'année
