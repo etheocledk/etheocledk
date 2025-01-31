@@ -17,6 +17,8 @@ Hi! I'm Ethéocle, a developer passionate about application development and cybe
 - Tools: Git(GitHub/GitLab), Docker, CI/CD.
 - Other skills: Project management.
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=etheocledk&&theme=algolia" alt="etheocledk" /></p>
+
 ## Contributions de l'année
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=etheocledk&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
