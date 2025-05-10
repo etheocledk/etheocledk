@@ -23,6 +23,19 @@ Hi! I'm Ethéocle, a developer passionate about application development and cybe
 
 [![](https://visitcount.itsvg.in/api?id=etheocledk&icon=0&color=0)](https://visitcount.itsvg.in)
 
+---
+
+<table>
+  <tr style="text-align: center; border: none !important; padding: 0;">
+    <td style="text-align: center;">
+      <img src="https://github-readme-stats.vercel.app/api?username=etheocledk&show_icons=true&locale=en&hide_border=true" alt="etheocledk" width="450" />
+    </td>
+    <td style="text-align: center;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=etheocledk&hide_border=true" alt="etheocledk" width="450" />
+    </td>
+  </tr>
+</table>
+
 ## Contact
 
 - Email: etheocledk@gmail.com
