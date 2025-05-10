@@ -17,12 +17,6 @@ Hi! I'm Ethéocle, a developer passionate about application development and cybe
 - Tools: Git(GitHub/GitLab), Docker, CI/CD.
 - Other skills: Project management.
 
-## Contributions de l'année
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=etheocledk&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-[![](https://visitcount.itsvg.in/api?id=etheocledk&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ---
 
 <table>
@@ -42,3 +36,6 @@ Hi! I'm Ethéocle, a developer passionate about application development and cybe
 - LinkedIn: [Etheocle on LinkedIn](https://www.linkedin.com/in/etheocledk)
 
 Thank you for visiting my profile! Feel free to explore my projects and contact me with any questions or collaboration opportunities.
+
+https://capsule-render.vercel.app/api?type=waving&color=6a11cb,to,2575fc&height=120&section=footer
+
