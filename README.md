@@ -5,7 +5,6 @@
 - 👯 I am looking to collaborate on all types of projects.
 - 💬 Ask me about application development.
 - 📫 How to reach me: etheocledk@gmail.com.
-- ⚡ Fun fact: I code like a bulldozer.
 
 ## Skills
 
