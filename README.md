@@ -1,6 +1,6 @@
 # Welcome to my GitHub Profile
 
-Hi! I'm Ethéocle, a developer passionate about application development and cybersecurity. Here is an overview of my projects and skills.
+Hi! I'm Ethéocle, a developer passionate about application development and cybersecurity. Here is an overview of my projects and skills.  <img align="left" alt="high" width="30px" height="30px" src="./waving_hand.gif" /> <img align="right" src="https://komarev.com/ghpvc/?username=etheocledk&label=Profile%20views&color=0e75b6&style=flat" alt="etheocledk" />
 
 ## About Me
 
