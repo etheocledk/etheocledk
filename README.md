@@ -9,11 +9,12 @@
 
 ## Skills
 
-- Programming languages: JavaScript, PHP, etc.
+- Programming languages: JavaScript, PHP, Ruby, etc.
 - Frameworks: Laravel, Vue.js, Express.js, Nuxt.js, React, Next.js, Ruby on Rails etc.
 - Databases: MongoDB, MySQL, PostgreSQL, etc.
 - Tools: Git(GitHub/GitLab), Docker, CI/CD.
-- Other skills: Project management.
+- Other skills: Project management, system design, agile methodologies
+- Cybersecurity: Secure coding practices, vulnerability assessment, basic penetration testing, and network security principles
 
 ## Coding Overview
 
