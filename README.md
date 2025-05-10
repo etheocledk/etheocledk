@@ -1,4 +1,4 @@
-### Hi there, I'm Etheocle  <img align="left" alt="high" width="30px" height="30px" src="./waving_hand.gif" /> <img align="right" src="https://komarev.com/ghpvc/?username=etheocledk&label=Profile%20views&color=0e75b6&style=flat" alt="etheocledk" />
+### 🤗 Hi there, I'm Etheocle  <img align="left" alt="high" width="30px" height="30px" src="./waving_hand.gif" /> <img align="right" src="https://komarev.com/ghpvc/?username=etheocledk&label=Profile%20views&color=0e75b6&style=flat" alt="etheocledk" />
 
 ## About Me
 
