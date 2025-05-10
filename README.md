@@ -40,5 +40,5 @@ Thank you for visiting my profile! Feel free to explore my projects and contact 
 <br/>
 <br/>-->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6a11cb,to,2575fc&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=43cea2,to,185a9d&height=120&section=footer"/>
 
