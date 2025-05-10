@@ -30,6 +30,5 @@
 </table>
 
 Thank you for visiting my profile! Feel free to explore my projects and contact me with any questions or collaboration opportunities.
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3edeb7&height=120&section=footer"/>
 
