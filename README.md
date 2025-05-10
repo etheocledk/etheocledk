@@ -37,5 +37,8 @@ Hi! I'm Ethéocle, a developer passionate about application development and cybe
 
 Thank you for visiting my profile! Feel free to explore my projects and contact me with any questions or collaboration opportunities.
 
-https://capsule-render.vercel.app/api?type=waving&color=6a11cb,to,2575fc&height=120&section=footer
+<br/>
+<br/>-->
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6a11cb,to,2575fc&height=120&section=footer"/>
 
